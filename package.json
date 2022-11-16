@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A discord BOT using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathmmo/discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathmmo/discord-bot/issues"
+  },
+  "homepage": "https://github.com/mathmmo/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
